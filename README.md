@@ -276,7 +276,7 @@ Electricity-Billing-System/
 │   │   ├── view_information.java      # View customer profile
 │   │   └── update_information.java    # Update customer profile
 │   └── icon/                          # Application icons & images
-└── Electiricity Billing System.iml    # IntelliJ project file
+└── Electricity Billing System.iml      # IntelliJ project file
 ```
 
 ---
